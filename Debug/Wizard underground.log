@@ -1,0 +1,9 @@
+﻿  Map.cpp
+c:\users\levya\source\repos\wizard underground\wizard underground\map.cpp(16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\levya\source\repos\wizard underground\wizard underground\map.cpp(15): warning C4101: 'x': unreferenced local variable
+c:\users\levya\source\repos\wizard underground\wizard underground\map.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Wizard underground.vcxproj -> C:\Users\levya\source\repos\Wizard underground\Debug\Wizard underground.exe
